@@ -19,7 +19,7 @@ This project showcases how to build a reactive application using Spring Boot, We
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/joey727/springboot-reactive-webflux-kafka.git
+    git clone https://github.com/joey727/SpringBoot-Reactive--Webflux-with-Kafka.git
     ```
 2. Navigate to the project directory:
     ```sh
